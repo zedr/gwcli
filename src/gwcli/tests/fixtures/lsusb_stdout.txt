@@ -1,0 +1,9 @@
+Bus 002 Device 003: ID 8087:07da Intel Corp.
+Bus 002 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub
+Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 001 Device 003: ID 0c45:644d Microdia 1.3 MPixel Integrated Webcam
+Bus 001 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 004 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 003 Device 018: ID 091e:4c9a Garmin International
+Bus 003 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
